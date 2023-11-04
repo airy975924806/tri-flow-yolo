@@ -9,7 +9,7 @@ This is the repo for the manuscripts "Tri-Flow-YOLO: Counter Helps to Improve Cr
 * **Clipart:** Please follow the [instruction](https://github.com/naoto0804/cross-domain-detection/tree/master/datasets) to prepare Clipart dataset.
 
 # weight processing
-* **download the [pretrained-weight](https://share.weiyun.com/cpVOF1xC) to the weight folder
+* download the [pretrained-weight](https://share.weiyun.com/cpVOF1xC) to the weight folder
 
 # train with the tri-flow-yolo in Cityscapes2FoggyCityscape
 bash train-lableaux.sh
